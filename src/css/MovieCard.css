@@ -94,6 +94,7 @@
 .movie-info h3 {
   font-size: 1rem;
   margin: 0;
+  word-break: break-word;
 }
 
 .movie-info p {
