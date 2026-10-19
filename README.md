@@ -1,16 +1,57 @@
-# React + Vite
+# Movie Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive movie app built with React and Vite, with multi-page navigation and a favorites list.
 
-Currently, two official plugins are available:
+**[Live demo](https://movie-app-two-tau-24.vercel.app)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Browse movies on the home page
+- Save movies to a dedicated Favorites page
+- Client-side routing between pages with React Router
+- Global state management with the React Context API
+- Deployed on Vercel
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+| Category | Tools |
+| --- | --- |
+| Framework | React, Vite |
+| Routing | React Router |
+| State | Context API |
+| Styling | CSS |
+| Hosting | Vercel |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Project Structure
+
+```
+src/
+├── components/   # Reusable UI components (NavBar)
+├── contexts/     # Global state (MovieContext)
+├── css/          # Stylesheets
+├── pages/        # Home and Favorites pages
+├── App.jsx       # Routes and app layout
+└── main.jsx      # Entry point
+```
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (LTS version)
+- npm
+
+### Installation
+
+```bash
+git clone https://github.com/erxop/Movie-App.git
+cd Movie-App
+npm install
+npm run dev
+```
+
+## Author
+
+**Daniella Chukwuma**
+
+[GitHub](https://github.com/erxop) | [Portfolio](https://portfolio-six-green-72.vercel.app)
