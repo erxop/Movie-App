@@ -1,3 +1,4 @@
+<img width="630" height="598" alt="screenshot" src="https://github.com/user-attachments/assets/18cd346f-50d2-4b11-9e75-97dd8ba92bce" />
 # Movie Explorer
 
 A responsive movie app built with React and Vite, with search, multi-page navigation and a favorites list.
