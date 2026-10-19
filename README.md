@@ -4,6 +4,8 @@ A responsive movie app built with React and Vite, with search, multi-page naviga
 
 [Live demo](https://movie-app-two-tau-24.vercel.app)
 
+<img width="630" height="598" alt="screenshot" src="https://github.com/user-attachments/assets/c9c3f8ee-1b69-4e3a-9f2d-5d7b6e586b1d" />
+
 ## Features
 
 - Browse movies on the home page
@@ -55,4 +57,4 @@ npm run dev
 
 Daniella Chukwuma
 
-[GitHub](https://github.com/erxop) | [Portfolio](https://portfolio-six-green-72.vercel.app)<img width="630" height="598" alt="screenshot" src="https://github.com/user-attachments/assets/c9c3f8ee-1b69-4e3a-9f2d-5d7b6e586b1d" />
+[GitHub](https://github.com/erxop) | [Portfolio](https://portfolio-six-green-72.vercel.app)
