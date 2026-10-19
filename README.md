@@ -1,11 +1,8 @@
-<img width="630" height="598" alt="screenshot" src="https://github.com/user-attachments/assets/18cd346f-50d2-4b11-9e75-97dd8ba92bce" />
 # Movie Explorer
 
 A responsive movie app built with React and Vite, with search, multi-page navigation and a favorites list.
 
-**[Live demo](https://movie-app-two-tau-24.vercel.app)**
-
-![Movie Explorer screenshot](screenshot.png)
+[Live demo](https://movie-app-two-tau-24.vercel.app)
 
 ## Features
 
@@ -56,6 +53,6 @@ npm run dev
 
 ## Author
 
-**Daniella Chukwuma**
+Daniella Chukwuma
 
-[GitHub](https://github.com/erxop) | [Portfolio](https://portfolio-six-green-72.vercel.app)
+[GitHub](https://github.com/erxop) | [Portfolio](https://portfolio-six-green-72.vercel.app)<img width="630" height="598" alt="screenshot" src="https://github.com/user-attachments/assets/c9c3f8ee-1b69-4e3a-9f2d-5d7b6e586b1d" />
