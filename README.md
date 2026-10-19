@@ -1,12 +1,15 @@
 # Movie Explorer
 
-A responsive movie app built with React and Vite, with multi-page navigation and a favorites list.
+A responsive movie app built with React and Vite, with search, multi-page navigation and a favorites list.
 
 **[Live demo](https://movie-app-two-tau-24.vercel.app)**
+
+![Movie Explorer screenshot](screenshot.png)
 
 ## Features
 
 - Browse movies on the home page
+- Search for movies by title
 - Save movies to a dedicated Favorites page
 - Client-side routing between pages with React Router
 - Global state management with the React Context API
